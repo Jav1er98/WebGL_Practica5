@@ -48,3 +48,7 @@ I have added the layers in the files "Imports.razor" and Game.razor.cs
 This helps separate entity responsibilities and game control, and makes code easier to understand and maintain.
 
 ![gif ejercicio 1](/imgs/Captura5.png)
+
+And we check that the code works:
+
+![gif ejercicio 1](/images/gif.gif)
